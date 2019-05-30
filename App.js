@@ -9,6 +9,13 @@ import {
 } from 'react-navigation';
 import Icon from '@expo/vector-icons/Ionicons'
 
+/* App FLow
+App Switch Navigator
+ - Welcome Screen with a login button
+ -App drawer Navigator ( swipe)
+ -Dashboard Screen- With a Stack Navigator used for changing headers,
+ -Tab Navigator with three tabs
+ */
 
 
   class App extends Component {
